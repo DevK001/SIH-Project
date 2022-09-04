@@ -1,0 +1,253 @@
+ 
+Department of Computer Engineering, Dharmsinh Desai University, Nadiad.                                                                                                   
+Page | 3 
+ 
+ B. TECH. SEMESTER – I (EC/CE/IT)  
+SUBJECT: BASIC ELECTRICAL ENGINEERING  
+ 
+Teaching Scheme (Hours/Week) Credits Examination Scheme 
+Lect Tut Prac Total Ext Sess. TW  Pract. Total 
+3 1 2 6 5 60 40 50* - 150 
+Reference Code ESC101 
+*TW Marks includes Viva based on TW  
+ 
+A. COURSE  OBJECTIVE 
+The course imparts an in-depth understanding of the fundamental concepts with an objective to 
+expose the students to the various types of electrical, electronic and magnetic circuits and their 
+applications. This course is designed to provide knowledge of fundamentals and various laws in 
+electromagnetic and magnetic circuits, electrostatics. 
+ 
+B. DETAILED  SYLLABUS 
+ 
+[1] DC  CIRCUITS 
+Electrical circuit elements (R, L and C), impact of temperature, voltage and current 
+sources, Kirchhoff current and voltage laws, analysis of simple circuits with dc excitation.  
+Superposition, Thevenin and Norton Theorems. Time-domain analysis of first order RL 
+and RC  circuits. 
+ 
+[2] AC  CIRCUITS 
+Representation of sinusoidal waveforms, peak and rms values, phasor representation, real 
+power, reactive power, apparent power, power factor. Analysis of single-phase ac circuits 
+consisting of R, L, C, RL, RC,  RLC combinations (series and parallel), resonance. Three-
+phase balanced circuits, voltage and current relations in star and delta connections 
+ 
+[3] ELECTRO-MAGNETIC INDUCTION 
+Introduction, Magnetic effect of electric current, Current carrying conductor in magnetic 
+field, Law of electromagnetic induction, Induced emf, Self-Inductance (L), Mutual 
+Inductance (M), and Coupling coefficient between two magnetically coupled circuits (K), 
+Inductances in series and parallel. 
+ 
+[4] MAGNETIC CIRCUITS 
+Introduction, Definition of Magnetic quantities, Magnetic circuit, Leakage flux, Fringing 
+effect, Comparison between magnetic and electric circuits 
+ 
+[5] TRANSFORMERS 
+Magnetic materials, BH characteristics, ideal and practical transformer, equivalent circuit, 
+losses in transformers, regulation and efficiency. Auto-transformer and three-phase 
+transformer connections 
+ 
+[6] ELECTRICAL MACHINES 
+Generation of rotating magnetic fields, Construction and working of a three-phase 
+induction motor, Significance of torque-slip characteristic. Loss components and 
+efficiency, starting and speed control of induction motor. Single-phase induction motor. 
+Construction, working, torque-speed characteristic and speed control of separately excited  
+Department of Computer Engineering, Dharmsinh Desai University, Nadiad.                                                                                                   
+Page | 9 
+ 
+ B. TECH. SEMESTER – I (EC/CE/IT) 
+SUBJECT: SOFTWARE WORKSHOP  
+ 
+Teaching Scheme (Hours/Week) Credits Examination Scheme 
+Lect Tut Prac Total Ext Sess. TW  Pract. Total 
+0 0 2 2 1 - - 50* - 50 
+Reference Code ESC202 
+*TW Marks includes Viva based on TW  
+ 
+A. COURSE  OBJECTIVE 
+ 
+The objective of the course is to familiarize students with various software tools and technology. 
+The course aims at providing hands on experience related to basic software installation, usage of 
+Operating systems and various essential software utilities. 
+ 
+B. DETAILED SYLLABUS 
+ 
+[1] OPERATING SYSTEM BASICS 
+Introduction to Operating System and Linux Architecture 
+ 
+[2] SOFTWARE INSTALLATION 
+Installation of open source/freeware software using package 
+manager for programming/simulation. 
+[3] SHELL COMMANDS 
+Linux usage, commands & shell scripting. Command structure and general purpose utility 
+ 
+[4] FILE HANDLING 
+basic of file handling. The file system, Handling ordinary files, File attributes and 
+permission, file system details 
+[5] SHELL SCRIPTING 
+Basic Shell commands, Looping and Branching, 
+ 
+[6] SHELL UTILITIES 
+Find command and shell, simple filters, advance filters. 
+ 
+[7] EDITORS 
+VI editor for basic text editing, LATEX for scientific documents and report writing. 
+ 
+ 
+ 
+C. RECOMMENDED  TEXT / REFERENCE BOOKS 
+1) Unix : Concepts and Applications, Sumitabha Das, 4th Edition, Tata McGraw Hill 
+ 
+ 
+ 
+  
+Department of Computer Engineering, Dharmsinh Desai University, Nadiad.                                                                                                   
+Page | 11 
+ 
+  
+B. TECH. SEMESTER II (EC/CE/IT) 
+SUBJECT: MATHEMATICS- II 
+ 
+Teaching Scheme (Hours/Week) Credits Examination Scheme 
+Lect Tut Prac Total Ext Sess. TW  Pract. Total 
+3 1 0 4 4 60 40 0 0 100 
+Reference Code BSC301 
+ 
+A. COURSE  OBJECTIVE 
+ 
+The objective of this course is to familiarize the prospective engineers with techniques in 
+Differential Equations, numerical methods and laplace transform.  
+ 
+B. DETAILED  SYLLABUS 
+ 
+[1] FIRST ORDER ORDINARY DIFFERENTIAL EQUATIONS AND 
+INTRODUCTION TO HIGHER ORDER DIFFERENTIAL EQUATIONS 
+Exact, linear and Bernoulli ’s equations, Euler ’s equations, Equations not of first degree: 
+equations solvable for p, equations solvable for y, equations solvable for x and Clairaut ’s 
+type, second order linear differential equations with variable coefficients, Method of 
+variation of parameters, Cauchy-Euler equation. 
+ 
+[2] NUMERICAL METHODS 
+Ordinary differential equations: Taylor ’s series, Euler and modified Euler ’s methods, Runge- 
+Kutta method of fourth order for solving first order equations, Solution of algebraic and 
+transcendental equations: Newton Raphson ’s Method, Numerical 
+integration : Trapezoidal rule and Simpson ’s 1/3rd and 3/8 rules. 
+ 
+[3] MULTIVARIABLE CALCULUS (INTEGRATION) 
+Multiple Integration: Double integrals (Cartesian), Change of order of integration in double 
+integrals, Change of variables (Cartesian to polar), Applications: areas and volumes, Triple 
+integrals (Cartesian), Scalar line integrals,Vector line integrals, Scalar surface integrals,  
+Vector surface integrals, Theorems of Green, Gauss and Stoke ’s. 
+ 
+[4] LA PLACE TRANSFORM 
+Laplace Transform, Properties of Laplace Transform, Laplace transform of periodic 
+functions, Finding inverse Laplace transform by different methods, Convolution theorem. 
+Evaluation of integrals by Laplace transform, Solving ODE  by Laplace Transform method. 
+ 
+C. RECOMMENDED  TEXT  / REFERENCE  BOOKS 
+ 
+1) B. S. Grewal, Higher Engineering Mathematics, Khanna Publishers, 40th Edition, 2007. 
+2) G.B. Thomas and R.L. Finney, Calculus and Analytic geometry, 9th Ed.,Pearson, 2002. 
+3) Erwin Kreyszig, Advanced Engineeri ng Mathematics, 9th Edition, John Wiley & Sons, 2006.  
+Department of Computer Engineering, Dharmsinh Desai University, Nadiad.                                                                                                   
+Page | 15 
+ 
+ B. TECH. SEMESTER II (EC/CE/IT) 
+SUBJECT: PHYSICS  
+ 
+Teaching Scheme (Hours/Week) Credits Examination Scheme 
+Lect Tut Prac Total Ext Sess. TW  Pract. Total 
+3 1 2 6 5 60 40 50* - 150 
+Reference Code BSC101 
+*TW Marks includes Viva based on TW 
+ 
+A. COURSE OBJECTIVE 
+The objective of this course is to relate the concept of physics with the ever-growing field of 
+Information and Communication Technology. This course provides knowledge on the 
+electronic devices such as Semiconductor Diodes: Bipolar Junction transistors, Amplifiers: 
+Sinusoidal Oscillators: & build capability for designing various circuits of electronic 
+devices. The course elaborates the concepts associated with Optoelectronics, 
+Communication and Semiconductor switching devices. It also provides comprehensive idea 
+about analog modulation & demodulation techniques (AM, FM and PM) and digital 
+modulation (ASK, FSK and PSK).  
+ 
+B. DETAILED SYLLABUS 
+ 
+[1] SEMICONDUCTORS 
+Intrinsic and extrinsic semiconductors, Carrier generation and recombination, 
+Carrier transport: diffusion and drift, p-n junction, Metal-semiconductor 
+junction (Ohmic and Schottky), Semiconductor materials of interest for 
+optoelectronic & other devices. 
+ 
+[2] DIODE 
+Introduction to P-N junction Diode and V-I characteristics, Half wave and Full-
+wave rectifiers, capacitor filter. Zener diode and its characteristics, Zener diode 
+as voltage regulator, Special purpose diodes. 
+ 
+[3] LIGHT-SEMICONDUCTOR INTERACTION 
+Radiative transitions and optical absorption, LED and LASER, Photo detectors. 
+ 
+[4] ACTIVE COMPONENTS AND  APPLICATIONS 
+BJT: Structure and input-output characteristics of a BJT, The Unbiased 
+Transistor, Transistor Currents , Biased Transistor, a single stage voltage divider 
+biasing, Emitter Bias, The CE Connections, The Base Curve, Collector curve, 
+Transistor approximation Variation in current Gain, The Load Line, The 
+Operating point, Recognizing Saturation, BJT as a switch & Amplifiers, LED 
+Drivers. 
+ 
+[5] OSCILLATORS 
+General form of oscillator, Sinusoidal oscillator, phase shift oscillator, Crystal Oscillato r. 
+ 
+[6] MOSFET 
+MOS physics and mode of operations, nFET current-voltage relationship, MOS 
+pass characteristics and CMOS inverter, Dynamic RAM (DRAM) 1T bit-cell.  
+Department of Computer Engineering, Dharmsinh Desai University, Nadiad.                                                                                                   
+Page | 18 
+ 
+ B. TECH. SEMESTER II (EC/CE/IT) 
+SUBJECT: HARDWARE WORKSHOP  
+ 
+Teaching Scheme (Hours/Week) Credits Examination Scheme 
+Lect Tut Prac Total Ext Sess. TW  Pract. Total 
+0 0 4 4 2 - - 100* - 100 
+Reference Code ESC202 
+*TW Marks includes Viva based on TW  
+ 
+A. COURSE OBJECTIVE 
+ 
+The objective of the course is to familiarize students with various hardware tools and techniques. 
+The course aims at imparting practical knowledge of various electronic components, computer 
+hardware, and internet technology.  
+ 
+B. DETAILED SYLLABUS 
+ 
+[1] ELECTRONIC COMPONENTS 
+Digital Multi-meter, Power Supply, Function Generator, Cathode Ray Oscilloscope, 
+Digital Oscilloscope, Measurement of Phase Difference in single phase circuit, 
+Various Electrical and Electronics component like LED, LDR, Photo-diode, MOSFET, 
+MCB and Relay. 
+ 
+[2] COMPUTER HARDWARE 
+Introduction to a personal computer and its basic peripherals, installation of Operating 
+System Software and the required device drivers. Students are suggested to perform 
+similar tasks on the Laptop scenario wherever possible. 
+ 
+[3] PERIPHERALS 
+Programming of Computer Ports & Interfacing of Electronic Components, Cables and 
+Connectors like RJ45, RS232 and CRO probe. 
+ 
+[4] INTERNET 
+Introduction to Internet & World Wide Web modules, Making a PC Internet ready: 
+Introduction to Internet and TCP/IP, Ethernet Connection, WiFi connection, configure 
+TCP/IP (IP, Gateway, DNS, and Proxy), and use of ping command, Information sharing 
+and data transfer over Local Area Network and Internet. 
+ 
+[5] WEB INFRASTRUCTURE 
+Basic Components of Web Sites, Front end & back end tools and technology. HTML & 
+CSS, Developing, Configuring and deploying a website. 
+ 
+[6] IOT BOARDS AND  CIRCUIT SIMULATION 
+Introduction to IOT boards like Arduino, Raspberry Pie etc. Interfacing, Circuit 
+designing and PCB designing. 
+ 
+[7] MINI PROJECT 
+Student will develop a mini project related to the topics listed above. 

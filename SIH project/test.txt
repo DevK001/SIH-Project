@@ -1,0 +1,15 @@
+module 1: fundamentals of communication skills
+module 3: vocabulary building and writing
+module 4: speaking skills introduction to phonetic sounds & articulation, word accent, rhythm and intonation, interpersonal communication, oral presentation, body language and voice modulation 
+module 5: technical writing job application, cv writing, business letters, memos, minutes, notices, report writing & structure, e
+module 1: linear algebra vector spaces, subspaces, basis and dimension, linear transformations, representation of transformations by matrices, linear functionals, transpose of linear transformations, canonical forms. linear functionals and adjoints, bilinear forms, symmetric bilinear forms, skew symmetric bilinear forms module 2:
+module 3:
+module 4: differential equations ordinary differential equations: first order linear equations, bernoulli
+module 5: multivariate calculus integral calculus: definite integrals as a limit of sums, applications of integration to area, volume, surface area, improper integrals. functions of several variables: continuity and differentiability, mixed partial derivatives, local maxima and minima for function of two variables, lagrange multipliers. alternative nptel/swayam course 
+module 1: ultrasonics & shm production, detection and uses of ultrasonics, reverberation, sabine
+module 2: oscillations damped oscillations: concept and cause of damping, differential equation of a damped oscil lator and different kinds of damping, methods of describing damping of an oscillator 
+module 3: wave motion and interference
+module 4: diffraction & polarization fresnel and fraunhofer diffraction, qualitative changes in diff raction pattern on moving from single slit to double slit, plane transmission grating, dispersive power & resolving power of a grating, methods of polarization, analysis of polarized light, quarter and half wave plates, double refraction.
+module 1: equations, functions and graphs
+module 3: vectors and matrices introduction to vectors, vector addition, vector multiplication, introduction to matrices, matric multiplication, properties of matrices, types of matrices, matrix division, solving system of equations with matrices, matrix transformations, eigen values and eigen vectors, rank of matrix
+module 5: statistics

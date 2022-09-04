@@ -1,0 +1,170 @@
+module 1: fundamentals of communication skills
+module 3: vocabulary building and writing
+module 4: speaking skills introduction to phonetic sounds & articulation, word accent, rhythm and intonation, interpersonal communication, oral presentation, body language and voice modulation 
+module 5: technical writing job application, cv writing, business letters, memos, minutes, notices, report writing & structure, e
+module 1: linear algebra vector spaces, subspaces, basis and dimension, linear transformations, representation of transformations by matrices, linear functionals, transpose of linear transformations, canonical forms. linear functionals and adjoints, bilinear forms, symmetric bilinear forms, skew symmetric bilinear forms module 2:
+module 3:
+module 4: differential equations ordinary differential equations: first order linear equations, bernoulli
+module 5: multivariate calculus integral calculus: definite integrals as a limit of sums, applications of integration to area, volume, surface area, improper integrals. functions of several variables: continuity and differentiability, mixed partial derivatives, local maxima and minima for function of two variables, lagrange multipliers. alternative nptel/swayam course 
+module 1: ultrasonics & shm production, detection and uses of ultrasonics, reverberation, sabine
+module 2: oscillations damped oscillations: concept and cause of damping, differential equation of a damped oscil lator and different kinds of damping, methods of describing damping of an oscillator 
+module 3: wave motion and interference
+module 4: diffraction & polarization fresnel and fraunhofer diffraction, qualitative changes in diff raction pattern on moving from single slit to double slit, plane transmission grating, dispersive power & resolving power of a grating, methods of polarization, analysis of polarized light, quarter and half wave plates, double refraction.
+module 1: equations, functions and graphs
+module 3: vectors and matrices introduction to vectors, vector addition, vector multiplication, introduction to matrices, matric multiplication, properties of matrices, types of matrices, matrix division, solving system of equations with matrices, matrix transformations, eigen values and eigen vectors, rank of matrix
+module 5: statistics
+module 1: introduction to programming
+module 2: data types and operators, variables, sequences and iteration
+module 3: conditional statements, loops, arrays and strings, user defined data
+module 4: dictionaries and dictionary accumulation, functions/methods
+module 5: file handling and memory management
+module 1: sequences and series limit of a sequence, monotone and cauchy sequences and properties of convergent sequences, examples. infinite series, positive series, tests for convergence and divergence, integral test, alternating series, leibnitz test.
+module 5: probability sample space and events, definitions of probability, properties of probability, conditional probability. random variables: distribution functions, discrete and continuous random variables, moments of random variables, conditional expectation, chebyshev inequality, functions of random variables. special distributions: bernoulli, binomial, geometric, pascal, poisson, exponential, uniform, normal distributions, limit theorems: law of large numbers
+module 1: introduction to object oriented programming paradigms
+module 3: python libraries:
+module 4: using python to access web data 
+module 5: using databases with python 
+module 1:
+module 4: graph theory
+module 5: sorting and searching
+module 1: mathematical reasoning
+module 3: combinatorics and functions
+module 1: basics 
+module 2: multi
+module 3: distributed computing systems and co ncurrency relation to parallel multiprocessors/multicomputer systems, distributed and concurrent programs, message passing vs. shared memory systems, synchronous vs. asynchronous executions, design issues and challenges, distributed computing technologies, clocks and synchronization, coordination and agreement algorithms, global state and distributed transactions.
+module 5: high performance computing with cuda
+module 1: basic concepts of algorithms notion of algorithm, fundamentals of algorithmic solving, important problem types, fundamentals of the analysis framework, asymptotic notations and basic efficiency classes, mathematical analysis of non
+module 2: brute force, divide and conquer strategy
+module 3: greedy approach and dynamic programming
+module 4: backtracking and branch and bound
+module 5: lower bound theory and complexity classes
+module 1: introduction
+module 2: structured and semi
+module 3: transaction management
+module 1: computer networks and the internet
+module 2: application layer
+module 3: transport layer
+module 4: network layer
+module 5: data link layer
+module 1: introduction what is machine learning?, how do we define learning?, how do we evaluate our networks?, how do we learn our network?, what are datasets and how to handle them?, feature sets, dataset division: test, train and validation sets, cross validation.
+module 4: unsupervised learning
+module 5:
+module 1: introduction artificial intelligence and its applications, artificial intelligence techniques, level of models, criteria of success, intelligent agents, nature of agents, learning
+module 2: problem solving techniques state space search, control strategies, heuristic search, problem characteristics, production system characteristics., generate and test, hill climbing, best first search, a
+module 3: logic propositional logic, predicate logic, resolution, resolution in proportional logic and predicate logic, clause form, unification algorithm,
+module 5: planning the planning problem, planning with state space search, partial order planning, planning graphs, planning with propositional logic, analysis of planning approaches, hierarchical planning, conditional planning, continuous and multi agent planning .
+module 1: automata introduction to formal proof, additional forms of proof, inductive proofs, finite automata 
+module 2: regular expressions and languages regular expression, fa and regular expressions, proving languages not to be regular, closure properties of regular languages, equivalence and minimization of automata.
+module 4: properties of context
+module 5: undecidability a language that is not recursively enumerable 
+module 1: introduction and software process models
+module 4: testing and software quality testing principles, testing strategies, black 
+module 5: computer aided software engineering and advanced topics
+module 1: introduction history of deep learning, mcculloch pitts neuron, multilayer perceptrons 
+module 2:
+module 3: auto
+module 4: deep learning models
+module 5: deep learning applications image processing, natural language processing, speech recognition, video analytics
+module 1: concepts of operating systems
+module 4: os security
+module 5: case studies and os abstractions
+module 1: introduction
+module 2: digital technologies as an open innovation
+module 3: the organization and management of open innovation projects
+module 4: start
+module 5: operational and strategy management
+module 1: introduction data for graphics, design principles, value for visualization, categorical, time series, and statistical data graphics, introduction to visualization tools
+module 4: multidimensional data and interac tion query, analysis and visualization of multi 
+module 5: collaboration graph visualization and navigation, online social networks, social data analysis, collaborative visual analytics, text, map, geospatial data
+module 1: introduction a computational framework for natur al language, description of english or an indian language in the frame work, lexicon, algorithms and data structures for implementation of the framework, finite state automata, the different analysis levels used for nlp 
+module 2: word level and syntactic analysis word level analysis: regular expressions, finite 
+module 3: semantic analysis semantic analysis: meaning representation, lexical semantics, ambiguity, word sense disambiguation. discourse processing: cohesion, reference resolution, discourse coherence and structure. knowledge representation, reasoning.
+module 5:
+module 1: artificial neural network introduction to ann, perceptron, cost function, gradient checking, multi 
+module 2: bayesian learning
+module 1: introduction
+module 1: introduction to neural networks structure and working of biological neural network, fundamentals of artificial neural networks & applications, characteristics of artificial neural networks, history of neural network research, characteristics of neural networks terminology .
+module 3: introduction of fuzzy logic and neuro fuzzy systems introduction, fuzzy sets, fuzzy model, fuzzy rule generation fuzzy inference system, defuzzification, architecture of a neuro 
+module 4: machine learning supervised learning: primitive algorithms, generative algorithms, support vector machine, ensemble methods. unsupervised learning: k 
+module 5: applications applications of ga & gp, hybrid systems .
+module 1: introduction to iot: what is iot, how does it work? difference between embedded device and iot device, properties of iot device, iot ecosystem, iot decision framework, iot solution architecture models, major iot boards in market
+module 4:
+module 5: sensors: applications of various sensors: google maps, waze, whatsapp, ola positioning sensors: encoders and accelerometers, image sensors: cameras, global positioning sensors: gps, glonass, irnss, galileo and indoor localization system s, motion & orientation sensors: accelerometer, magnetometer, proximity sensor, gyroscope calibration, noise modeling and characterization and noise filtering and sensor data processing. privacy &security
+module 1:
+module 1: introduction to python: data types, operators, expression, indexing & slicing, strings, conditionals, functions, control flow, nested l oops, sets & dictionaries
+module 3:
+module 4: classification: introduction to classification, k
+module 5: unsupervised learning: intro to clustering, k
+module 1: introduction machine learning, what is data, the terminology of ai, what makes an ai company, what machine learning can and cannot do, non 
+module 2: building ai projects 
+module 3: building ai in your company case study: smart speaker, case study: self 
+module 4: ai and society a realistic view of ai, discrimination / bias, adversarial attacks on ai, adverse uses of ai, ai and developing economies, ai and jobs
+module 1: introduction to data science
+module 2:
+module 3:
+module 4:
+module 5: introduction to bayesian modeling
+module 1: introduction algorithms and machine learning, introduction to algorithms, tools to analyze algorithms, algorithmic techniques: divide and conquer, examples, randomization, applications
+module 1: the computer and the human
+module 2: visualization tools line plots, area plots, histogram, bar charts, pie charts, scatter plots, bubble plots, waffle charts, word clouds,
+module 5: python visualization libraries
+module 1: introduction to big data introduction to bigdata platform, traits of big data, challenges of conventional systems, web data, evolution of analytic scalability, analysis vs reporting, statistical concepts: sampling distributions, re
+module 2: basic data analysis and data analytic methods using r
+module 4: mining data streams introduction to streams concepts: stream data model and arc hitecture, stream computing, sampling data in a stream: filtering streams, counting distinct elements in a stream, estimating moments, counting oneness in a window, decaying window, real time analytics platform 
+module 5: framework, technologies, tools and visualization map reduce: hadoop, hive, mapr, sharding, nosql databases: s3, hadoop distributed file systems, visualizations: visual data analysis techniques, inte raction techniques; systems and analytics applications, analytics using statistical packages, industry challenges and application of analytics
+module 1:
+module 2:
+module 3: how to choose the right tool?
+module 4:
+module 1: introduction and mathematical preliminaries
+module 3: feature selection and extraction problem statement and uses, branch and bound algorithm, sequential forward and backward selection, cauchy schwartz inequality, feature selection criteria function: probabilistic separability
+module 5: recent advancements in pattern recognition
+module 1: image representation and analysis introduction to computer vision, numerical representation of images, image augmentation, enhancement, processing, color transforms, geometric transforms, feature recognition and extraction
+module 1: convolutional neural networks
+module 3: recurrent neural network
+module 1: introduction what are autonomous systems? ai in autonomous systems, autonomous systems vs robot s
+module 3: modelling in autonomous systems
+module 4: slam localization and mapping fundamentals, lidar and visual slam, navigation 
+module 5: drones overview, definition, applications, components platforms, propulsion, on
+module 1: introduction
+module 3: sequence comparison methods
+module 5: predictive methods using dna a nd protein sequences
+module 1: introduction 
+module 2: genomic data science with galaxy
+module 3: sequencing antibiotics discovery of antibiotics, how do bacteria make antibiotics, sequencing antibiotics by shattering them into pieces, a brute force algorithm for cyclopeptide sequencing, cyclopeptide sequencing with branch and bound. module 4: ideal to real spectra for antibiotics sequencing
+module 1:
+module 2: pre
+module 3: edit distance, assembly, overlaps
+module 4: algorithms for assembly 
+module 5: assemblers in practice 
+module 1: introduction & basic neurobiology 
+module 2: neural encoding models
+module 3: extracting information from neurons & neural coding
+module 4: computing in carbon and computing with networks
+module 5: plasticity in the brain & learning
+module 1: introduction
+module 2: movement algorithms and steering behaviour
+module 3: pathfinding 
+module 4: decision
+module 5: introduction to learning mechanisms
+module 1: disease detection with computer vision
+module 2: evaluating models 
+module 3: linear prognostic models
+module 4: survival models and time
+module 5: medical treatment effect estimation
+module 1: introduction
+module 2: robo advising 
+module 3: stock selection & asset management
+module 4: compliance and fraud detection 
+module 5: case studies fetch.ai, platforms or apps using ai for financial aspects.
+module 1: introduction
+module 3: python libraries and toolkits
+module 1: universal human values i 
+module 2: physical health and related activities
+module 3: familiarization of department/ branch and innovation
+module 4: visit to a local area
+module 5: lectures by eminent people
+module 6: proficiency modules
+module 7: literature / literary activities
+module 8: creative practices
+module 9: extra curricular activities

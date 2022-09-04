@@ -1,0 +1,190 @@
+b. detailed  syllabus 
+ 
+[1] dc  circuits 
+electrical circuit elements (r, l and c), impact of temperature, voltage and current 
+sources, kirchhoff current and voltage laws, analysis of simple circuits with dc excitation.  
+superposition, thevenin and norton theorems. time-domain analysis of first order rl 
+and rc  circuits. 
+ 
+[2] ac  circuits 
+representation of sinusoidal waveforms, peak and rms values, phasor representation, real 
+power, reactive power, apparent power, power factor. analysis of single-phase ac circuits 
+consisting of r, l, c, rl, rc,  rlc combinations (series and parallel), resonance. three-
+phase balanced circuits, voltage and current relations in star and delta connections 
+ 
+[3] electro-magnetic induction 
+introduction, magnetic effect of electric current, current carrying conductor in magnetic 
+field, law of electromagnetic induction, induced emf, self-inductance (l), mutual 
+inductance (m), and coupling coefficient between two magnetically coupled circuits (k), 
+inductances in series and parallel. 
+ 
+[4] magnetic circuits 
+introduction, definition of magnetic quantities, magnetic circuit, leakage flux, fringing 
+effect, comparison between magnetic and electric circuits 
+ 
+[5] transformers 
+magnetic materials, bh characteristics, ideal and practical transformer, equivalent circuit, 
+losses in transformers, regulation and efficiency. auto-transformer and three-phase 
+transformer connections 
+ 
+[6] electrical machines 
+generation of rotating magnetic fields, construction and working of a three-phase 
+induction motor, significance of torque-slip characteristic. loss components and 
+efficiency, starting and speed control of induction motor. single-phase induction motor. 
+construction, working, torque-speed characteristic and speed control of separately excited  
+department of computer engineering, dharmsinh desai university, nadiad.                                                                                                   
+page | 9 
+ 
+ b. tech. semester – i (ec/ce/it) 
+subject: software workshop  
+ 
+teaching scheme (hours/week) credits examination scheme 
+lect tut prac total ext sess. tw  pract. total 
+0 0 2 2 1 - - 50* - 50 
+reference code esc202 
+*tw marks includes viva based on tw  
+ 
+b. detailed syllabus 
+ 
+[1] operating system basics 
+introduction to operating system and linux architecture 
+ 
+[2] software installation 
+installation of open source/freeware software using package 
+manager for programming/simulation. 
+[3] shell commands 
+linux usage, commands & shell scripting. command structure and general purpose utility 
+ 
+[4] file handling 
+basic of file handling. the file system, handling ordinary files, file attributes and 
+permission, file system details 
+[5] shell scripting 
+basic shell commands, looping and branching, 
+ 
+[6] shell utilities 
+find command and shell, simple filters, advance filters. 
+ 
+[7] editors 
+vi editor for basic text editing, latex for scientific documents and report writing. 
+ 
+ 
+ 
+c. recommended  text / reference books 
+1) unix : concepts and applications, sumitabha das, 4th edition, tata mcgraw hill 
+ 
+ 
+ 
+  
+department of computer engineering, dharmsinh desai university, nadiad.                                                                                                   
+page | 11 
+ 
+  
+b. tech. semester ii (ec/ce/it) 
+subject: mathematics- ii 
+ 
+teaching scheme (hours/week) credits examination scheme 
+lect tut prac total ext sess. tw  pract. total 
+3 1 0 4 4 60 40 0 0 100 
+reference code bsc301 
+ 
+b. detailed  syllabus 
+ 
+[1] first order ordinary differential equations and 
+introduction to higher order differential equations 
+exact, linear and bernoulli ’s equations, euler ’s equations, equations not of first degree: 
+equations solvable for p, equations solvable for y, equations solvable for x and clairaut ’s 
+type, second order linear differential equations with variable coefficients, method of 
+variation of parameters, cauchy-euler equation. 
+ 
+[2] numerical methods 
+ordinary differential equations: taylor ’s series, euler and modified euler ’s methods, runge- 
+kutta method of fourth order for solving first order equations, solution of algebraic and 
+transcendental equations: newton raphson ’s method, numerical 
+integration : trapezoidal rule and simpson ’s 1/3rd and 3/8 rules. 
+ 
+[3] multivariable calculus (integration) 
+multiple integration: double integrals (cartesian), change of order of integration in double 
+integrals, change of variables (cartesian to polar), applications: areas and volumes, triple 
+integrals (cartesian), scalar line integrals,vector line integrals, scalar surface integrals,  
+vector surface integrals, theorems of green, gauss and stoke ’s. 
+ 
+[4] la place transform 
+laplace transform, properties of laplace transform, laplace transform of periodic 
+functions, finding inverse laplace transform by different methods, convolution theorem. 
+evaluation of integrals by laplace transform, solving ode  by laplace transform method. 
+ 
+b. detailed syllabus 
+ 
+[1] semiconductors 
+intrinsic and extrinsic semiconductors, carrier generation and recombination, 
+carrier transport: diffusion and drift, p-n junction, metal-semiconductor 
+junction (ohmic and schottky), semiconductor materials of interest for 
+optoelectronic & other devices. 
+ 
+[2] diode 
+introduction to p-n junction diode and v-i characteristics, half wave and full-
+wave rectifiers, capacitor filter. zener diode and its characteristics, zener diode 
+as voltage regulator, special purpose diodes. 
+ 
+[3] light-semiconductor interaction 
+radiative transitions and optical absorption, led and laser, photo detectors. 
+ 
+[4] active components and  applications 
+bjt: structure and input-output characteristics of a bjt, the unbiased 
+transistor, transistor currents , biased transistor, a single stage voltage divider 
+biasing, emitter bias, the ce connections, the base curve, collector curve, 
+transistor approximation variation in current gain, the load line, the 
+operating point, recognizing saturation, bjt as a switch & amplifiers, led 
+drivers. 
+ 
+[5] oscillators 
+general form of oscillator, sinusoidal oscillator, phase shift oscillator, crystal oscillato r. 
+ 
+[6] mosfet 
+mos physics and mode of operations, nfet current-voltage relationship, mos 
+pass characteristics and cmos inverter, dynamic ram (dram) 1t bit-cell.  
+department of computer engineering, dharmsinh desai university, nadiad.                                                                                                   
+page | 18 
+ 
+ b. tech. semester ii (ec/ce/it) 
+subject: hardware workshop  
+ 
+teaching scheme (hours/week) credits examination scheme 
+lect tut prac total ext sess. tw  pract. total 
+0 0 4 4 2 - - 100* - 100 
+reference code esc202 
+*tw marks includes viva based on tw  
+ 
+b. detailed syllabus 
+ 
+[1] electronic components 
+digital multi-meter, power supply, function generator, cathode ray oscilloscope, 
+digital oscilloscope, measurement of phase difference in single phase circuit, 
+various electrical and electronics component like led, ldr, photo-diode, mosfet, 
+mcb and relay. 
+ 
+[2] computer hardware 
+introduction to a personal computer and its basic peripherals, installation of operating 
+system software and the required device drivers. students are suggested to perform 
+similar tasks on the laptop scenario wherever possible. 
+ 
+[3] peripherals 
+programming of computer ports & interfacing of electronic components, cables and 
+connectors like rj45, rs232 and cro probe. 
+ 
+[4] internet 
+introduction to internet & world wide web modules, making a pc internet ready: 
+introduction to internet and tcp/ip, ethernet connection, wifi connection, configure 
+tcp/ip (ip, gateway, dns, and proxy), and use of ping command, information sharing 
+and data transfer over local area network and internet. 
+ 
+[5] web infrastructure 
+basic components of web sites, front end & back end tools and technology. html & 
+css, developing, configuring and deploying a website. 
+ 
+[6] iot boards and  circuit simulation 
+introduction to iot boards like arduino, raspberry pie etc. interfacing, circuit 
+designing and pcb designing. 
+ 
+[7] mini project 
+student will develop a mini project related to the topics listed above. 
